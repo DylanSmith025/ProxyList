@@ -1,6 +1,6 @@
 # NAME: ProxyList
 # AUTHOR: DylanSmith025
-# REPO: https://github.com/blackmatrix7/ios_rule_script
+# REPO: https://github.com/DylanSmith025/ProxyList
 DOMAIN-SUFFIX,sehuatang.org
 DOMAIN-SUFFIX,shuziyimin.org
 DOMAIN-SUFFIX,cdn.shopify.com
@@ -41,7 +41,7 @@ DOMAIN-SUFFIX,fanart.tv
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,publicspace.net
 DOMAIN-SUFFIX,macosicons.com
-DOMAIN-KEYWORD,yahoo.com
+DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,lxsgt.uk
 DOMAIN-SUFFIX,pixiv.org
 DOMAIN-SUFFIX,themoviedb.org

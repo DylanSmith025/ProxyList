@@ -6,10 +6,8 @@ DOMAIN-SUFFIX,shuziyimin.org
 DOMAIN-SUFFIX,cdn.shopify.com
 DOMAIN-SUFFIX,xtool.com
 DOMAIN-SUFFIX,hcaptcha.com
-DOMAIN-SUFFIX,nexitally.com
 DOMAIN-SUFFIX,taiav.com
 DOMAIN-SUFFIX,teachergua.org
-DOMAIN-SUFFIX,naiyovpn.com
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,amendsgeneralize.com
 DOMAIN-SUFFIX,javgg.net
@@ -25,7 +23,6 @@ DOMAIN-SUFFIX,ptauxofi.net
 DOMAIN-SUFFIX,littlecdn.com
 DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,emby.media
-DOMAIN-SUFFIX,tagss02.pro
 DOMAIN-SUFFIX,everia.club
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,4hu.tv
@@ -34,7 +31,11 @@ DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,omdbapi.com
 DOMAIN-SUFFIX,supapush.net
 DOMAIN-SUFFIX,missav.com
+# 常用机场链接
 DOMAIN-SUFFIX,kuromis.com
+DOMAIN-SUFFIX,nexitally.com
+DOMAIN-SUFFIX,naiyovpn.com
+DOMAIN-SUFFIX,tagss02.pro
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,mitsea.com
 DOMAIN-SUFFIX,fanart.tv
@@ -56,6 +57,16 @@ DOMAIN-SUFFIX,nianticlabs.com
 DOMAIN-SUFFIX,xgdata.xoyo.games
 DOMAIN-SUFFIX,machbbs.com
 DOMAIN-SUFFIX,tw.ntunhs.net
+DOMAIN-SUFFIX,snapgametech.com
+DOMAIN-SUFFIX,braze-images.com
+DOMAIN-SUFFIX,nssurge.com
+DOMAIN-SUFFIX,app.adjust.com
+IP-CIDR,172.65.197.121/32
+# ChatGPT语音
+IP-CIDR,150.230.202.37/32
+IP-CIDR,155.248.173.105/32
+
+
 
 
 

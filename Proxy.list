@@ -1,27 +1,13 @@
 # NAME: Proxy
 # AUTHOR: DylanSmith025
 # REPO: https://github.com/DylanSmith025/ProxyList
+# 流媒体链接
 DOMAIN-SUFFIX,sehuatang.org
-DOMAIN-SUFFIX,shuziyimin.org
-DOMAIN-SUFFIX,cdn.shopify.com
-DOMAIN-SUFFIX,xtool.com
-DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,taiav.com
-DOMAIN-SUFFIX,teachergua.org
 DOMAIN-SUFFIX,trakt.tv
-DOMAIN-SUFFIX,amendsgeneralize.com
 DOMAIN-SUFFIX,javgg.net
 DOMAIN-SUFFIX,opencollective.com
 DOMAIN-SUFFIX,xnxx.gold
-DOMAIN-SUFFIX,outlook.live.com
-DOMAIN-SUFFIX,51cg1.com
-DOMAIN-SUFFIX,henduohao.com
-DOMAIN-SUFFIX,dlmate62.xyz
-DOMAIN-SUFFIX,rtmark.net
-DOMAIN-SUFFIX,dlmate13.online
-DOMAIN-SUFFIX,ptauxofi.net
-DOMAIN-SUFFIX,littlecdn.com
-DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,emby.media
 DOMAIN-SUFFIX,everia.club
 DOMAIN-SUFFIX,ipify.org
@@ -31,14 +17,36 @@ DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,omdbapi.com
 DOMAIN-SUFFIX,supapush.net
 DOMAIN-SUFFIX,missav.com
-# 常用机场链接
+# 机场链接
 DOMAIN-SUFFIX,kuromis.com
 DOMAIN-SUFFIX,nexitally.com
 DOMAIN-SUFFIX,naiyovpn.com
 DOMAIN-SUFFIX,tagss02.pro
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,mitsea.com
-DOMAIN-SUFFIX,fanart.tv
+# 论坛链接
+DOMAIN-SUFFIX,www.uscardforum.com
+DOMAIN-SUFFIX,teachergua.org
+DOMAIN-SUFFIX,shuziyimin.org
+DOMAIN-SUFFIX,51cg1.com
+DOMAIN-SUFFIX,lanrenbl.net
+# ChatGPT语音
+IP-CIDR,150.230.202.37/32
+IP-CIDR,155.248.173.105/32
+# 微软
+DOMAIN-SUFFIX,outlook.live.com
+# 游戏服务器
+IP-CIDR,172.65.197.121/32
+# 杂项
+DOMAIN-SUFFIX,xtool.com
+DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,cdn.shopify.com
+DOMAIN-SUFFIX,amendsgeneralize.com
+DOMAIN-SUFFIX,henduohao.com
+DOMAIN-SUFFIX,dlmate62.xyz
+DOMAIN-SUFFIX,rtmark.net
+DOMAIN-SUFFIX,dlmate13.online
+DOMAIN-SUFFIX,ptauxofi.net
+DOMAIN-SUFFIX,littlecdn.com
+DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,publicspace.net
 DOMAIN-SUFFIX,macosicons.com
@@ -51,6 +59,9 @@ DOMAIN-SUFFIX,interstitial-07.com
 DOMAIN-SUFFIX,dlmate52.xyz
 DOMAIN-SUFFIX,digitaloceanspaces.com
 DOMAIN-SUFFIX,qbittorrent.org
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,mitsea.com
+DOMAIN-SUFFIX,fanart.tv
 DOMAIN-SUFFIX,gh-proxy.com
 DOMAIN-SUFFIX,account.live.com
 DOMAIN-SUFFIX,nianticlabs.com
@@ -61,16 +72,6 @@ DOMAIN-SUFFIX,snapgametech.com
 DOMAIN-SUFFIX,braze-images.com
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,app.adjust.com
-DOMAIN-SUFFIX,lanrenbl.net
-IP-CIDR,172.65.197.121/32
-# ChatGPT语音
-IP-CIDR,150.230.202.37/32
-IP-CIDR,155.248.173.105/32
-
-
-
-
-
 
 
 

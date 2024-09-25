@@ -23,6 +23,9 @@ DOMAIN-SUFFIX,nexitally.com
 DOMAIN-SUFFIX,naiyovpn.com
 DOMAIN-SUFFIX,tagss02.pro
 # 论坛链接
+DOMAIN-SUFFIX,oppaisan.com
+DOMAIN-SUFFIX,445yun.com
+DOMAIN-SUFFIX,hlj.fun
 DOMAIN-SUFFIX,www.uscardforum.com
 DOMAIN-SUFFIX,teachergua.org
 DOMAIN-SUFFIX,shuziyimin.org
@@ -38,6 +41,20 @@ DOMAIN-SUFFIX,outlook.live.com
 # 游戏服务器
 IP-CIDR,172.65.197.121/32
 # 杂项
+DOMAIN-SUFFIX,boxjs.com
+DOMAIN-SUFFIX,defloteen.com
+DOMAIN-SUFFIX,gitbook.io
+DOMAIN-SUFFIX,asianteengfs.com
+DOMAIN-SUFFIX,click.revsharecash.com
+DOMAIN-SUFFIX,gettyimages.co.jp
+DOMAIN-SUFFIX,popdaily.com.tw
+DOMAIN-SUFFIX,cosmopolitan.com
+DOMAIN-SUFFIX,hearstapps.com
+DOMAIN-SUFFIX,ipitaka.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,obutsumania.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,xtool.com
 DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,cdn.shopify.com

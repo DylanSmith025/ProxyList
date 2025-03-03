@@ -88,6 +88,7 @@ IP-CIDR,155.248.173.105/32
 # 游戏服务器
 IP-CIDR,172.65.197.121/32
 # 杂项
+DOMAIN-SUFFIX,kpkuang.org
 DOMAIN-SUFFIX,boxjs.com
 DOMAIN-SUFFIX,defloteen.com
 DOMAIN-SUFFIX,gitbook.io

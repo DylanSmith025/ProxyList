@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,omdbapi.com
 DOMAIN-SUFFIX,supapush.net
 DOMAIN-SUFFIX,missav.com
+DOMAIN-SUFFIX,missav.ws
 DOMAIN-SUFFIX,smart.pendy.dpdns.org
 DOMAIN-SUFFIX,breezy-audrie-zspace-7524863c.koyeb.app
 DOMAIN-SUFFIX,vrvwfasiyxst.ap-southeast-1.clawcloudrun.com
@@ -27,6 +28,7 @@ DOMAIN-SUFFIX,globallive.tdm.com.mo
 DOMAIN-SUFFIX,live.tvfix.org
 # 机场链接
 DOMAIN-SUFFIX,kuromis.com
+DOMAIN-SUFFIX,kuromisubs.shop
 DOMAIN-SUFFIX,nexitally.com
 DOMAIN-SUFFIX,naiyovpn.com
 DOMAIN-SUFFIX,tagss02.pro
@@ -91,8 +93,60 @@ IP-CIDR,64.23.132.171/32,no-resolve
 IP-ASN,20473,no-resolve
 IP-CIDR,150.230.202.37/32
 IP-CIDR,155.248.173.105/32
-# 游戏服务器
+# 游戏服务
+DOMAIN-SUFFIX,baas.nintendo.com
 IP-CIDR,172.65.197.121/32
+# Reddit
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditmail.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,reddituploads.com
+DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net
+DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com
+# Docker
+DOMAIN,d1q6f0aelx0por.cloudfront.net
+DOMAIN,d2wy8f7a9ursnm.cloudfront.net
+DOMAIN,d36jcksde1wxzq.cloudfront.net
+DOMAIN-SUFFIX,compose-spec.io
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,dockerhub.com
+# GitHub
+DOMAIN-SUFFIX,atom.io
+DOMAIN-SUFFIX,dependabot.com
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net
+DOMAIN-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com
+DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com
+DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.community
+DOMAIN-SUFFIX,github.dev
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,githubhackathon.com
+DOMAIN-SUFFIX,githubnext.com
+DOMAIN-SUFFIX,githubpreview.dev
+DOMAIN-SUFFIX,githubstatus.com
+DOMAIN-SUFFIX,githubuniverse.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,myoctocat.com
+DOMAIN-SUFFIX,npm.community
+DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,opensource.guide
+DOMAIN-SUFFIX,rawgit.com
+DOMAIN-SUFFIX,rawgithub.com
+DOMAIN-SUFFIX,repo.new
+DOMAIN-SUFFIX,thegithubshop.com
+DOMAIN-KEYWORD,github
+# 运营商
+DOMAIN-SUFFIX,ultramobile.com
 # 杂项
 DOMAIN-SUFFIX,kpkuang.org
 DOMAIN-SUFFIX,boxjs.com
@@ -149,9 +203,12 @@ DOMAIN-SUFFIX,heimacili.com
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,samfunny.com
 DOMAIN-SUFFIX,nyaa.si
-DOMAIN-SUFFIX,missav.ws
-
-
-
-
+DOMAIN-SUFFIX,hikami.moe
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,samfunny.com
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,api.giphy.com
+DOMAIN-SUFFIX,rarbg.quest
+DOMAIN-SUFFIX,syq.pub
 

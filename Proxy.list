@@ -1,8 +1,10 @@
 # NAME: Proxy
 # AUTHOR: DylanSmith025
 # REPO: https://github.com/DylanSmith025/ProxyList
+
 # 维基百科
 DOMAIN-SUFFIX,wikimedia.org
+
 # 流媒体链接
 DOMAIN-SUFFIX,sehuatang.org
 DOMAIN-SUFFIX,taiav.com
@@ -29,6 +31,7 @@ DOMAIN-SUFFIX,myavlive.com
 DOMAIN-SUFFIX,lsptu26.com
 DOMAIN-SUFFIX,oceansaver.in
 DOMAIN-SUFFIX,line-scdn.net
+
 # 机场链接
 DOMAIN-SUFFIX,kuromis.com
 DOMAIN-SUFFIX,kuromisubs.shop
@@ -37,6 +40,7 @@ DOMAIN-SUFFIX,naiyovpn.com
 DOMAIN-SUFFIX,tagss02.pro
 DOMAIN-SUFFIX,y-too.net
 DOMAIN-SUFFIX,y-too.com
+
 # 论坛链接
 DOMAIN-SUFFIX,oppaisan.com
 DOMAIN-SUFFIX,445yun.com
@@ -68,9 +72,11 @@ DOMAIN-SUFFIX,bingapistatistics.com
 DOMAIN-SUFFIX,bingsandbox.com
 DOMAIN-SUFFIX,bingvisualsearch.com
 DOMAIN-SUFFIX,bingworld.com
+
 # 游戏服务
 DOMAIN-SUFFIX,baas.nintendo.com
 IP-CIDR,172.65.197.121/32
+
 # Reddit
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.com
@@ -80,6 +86,7 @@ DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,reddituploads.com
 DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net
 DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com
+
 # Docker
 DOMAIN,d1q6f0aelx0por.cloudfront.net
 DOMAIN,d2wy8f7a9ursnm.cloudfront.net
@@ -88,6 +95,7 @@ DOMAIN-SUFFIX,compose-spec.io
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,dockerhub.com
+
 # GitHub
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,dependabot.com
@@ -120,8 +128,10 @@ DOMAIN-SUFFIX,rawgithub.com
 DOMAIN-SUFFIX,repo.new
 DOMAIN-SUFFIX,thegithubshop.com
 DOMAIN-KEYWORD,github
+
 # 运营商
 DOMAIN-SUFFIX,ultramobile.com
+
 # 杂项
 DOMAIN-SUFFIX,kpkuang.org
 DOMAIN-SUFFIX,boxjs.com
@@ -189,6 +199,7 @@ DOMAIN-SUFFIX,syq.pub
 DOMAIN-SUFFIX,y2down.cc
 DOMAIN-SUFFIX,1lou.me
 DOMAIN-SUFFIX,nextemby.com
+
 # 资源网站
 DOMAIN-SUFFIX,hdhive.com
 DOMAIN-SUFFIX,heimago.top

@@ -60,6 +60,7 @@ DOMAIN-SUFFIX,re0.me
 DOMAIN-SUFFIX,acgndog.com
 DOMAIN-SUFFIX,mojie.app
 DOMAIN-SUFFIX,mojie.nl
+DOMAIN-SUFFIX,v2ex.com
 
 # 微软
 DOMAIN-SUFFIX,outlook.live.com
@@ -210,7 +211,8 @@ DOMAIN-SUFFIX,xn--wcv59z.com
 DOMAIN-SUFFIX,xn--rhqp87dfoiv9a830g.com
 DOMAIN-SUFFIX,flathub.org
 DOMAIN-SUFFIX,gnome.org
-DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,extto.com
+DOMAIN-SUFFIX,uindex.org
 
 # 字幕网站
 DOMAIN-SUFFIX,subhd.me
